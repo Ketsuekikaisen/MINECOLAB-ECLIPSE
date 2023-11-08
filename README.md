@@ -14,5 +14,3 @@ Simplified Configuration:
 Configuring your Minecraft server has never been easier. MINECOLAB ECLIPSE simplifies the server setup process, reducing the complexities typically associated with server configuration. Users can now set up their servers quickly and effortlessly.
 
 IMINECOLAB ECLIPSE is a tool for Minecraft users seeking an efficient and user-friendly way to set up servers on Google Colab. Its resource optimization, intuitive interface, simplified configuration, and ongoing development in the beta version make it a top choice for Minecraft server hosting in colab.
-
-DOWNLOAD: https://github.com/MARTINEZDEVDE/MINECOLAB-ECLIPSE/blob/main/MINECOLAB_ECLIPSE.ipynb
