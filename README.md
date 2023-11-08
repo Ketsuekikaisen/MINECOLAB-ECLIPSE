@@ -1,10 +1,4 @@
- M)mm mmm  I)iiii N)n   nn E)eeeeee   C)ccc   O)oooo  L)         A)aa   B)bbbb      E)eeeeee   C)ccc  L)       I)iiii P)ppppp   S)ssss  E)eeeeee 
-M)  mm  mm   I)   N)nn  nn E)        C)   cc O)    oo L)        A)  aa  B)   bb     E)        C)   cc L)         I)   P)    pp S)    ss E)       
-M)  mm  mm   I)   N) nn nn E)eeeee  C)       O)    oo L)       A)    aa B)bbbb      E)eeeee  C)       L)         I)   P)ppppp   S)ss    E)eeeee  
-M)  mm  mm   I)   N)  nnnn E)       C)       O)    oo L)       A)aaaaaa B)   bb     E)       C)       L)         I)   P)            S)  E)       
-M)      mm   I)   N)   nnn E)        C)   cc O)    oo L)       A)    aa B)    bb    E)        C)   cc L)         I)   P)       S)    ss E)       
-M)      mm I)iiii N)    nn E)eeeeee   C)ccc   O)oooo  L)llllll A)    aa B)bbbbb     E)eeeeee   C)ccc  L)llllll I)iiii P)        S)ssss  E)eeeeee 
-                                                                                                                                                
+MINECOLAB ECLIPSE
 BY MARTINEZ DEVELOPER
 
 MINECOLAB ECLIPSE, an evolution of the original MINECOLAB, is a remarkable tool that simplifies the process of setting up Minecraft servers on Google Colab. With a range of enhancements and user-friendly features, it offers a smoother and more efficient server setup experience. Here's an overview of its notable aspects:
